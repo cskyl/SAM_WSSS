@@ -1,6 +1,6 @@
 # SAM_WSSS
-Code repository for our paper "[Segment Anything Model (SAM) Enhanced Pseudo
-Labels for Weakly Supervised Semantic Segmentation]"
+Code repository for our paper "Segment Anything Model (SAM) Enhanced Pseudo
+Labels for Weakly Supervised Semantic Segmentation"
 This is a Python script for our proposed framework.
 
 ## Getting Started
@@ -66,3 +66,9 @@ python main.py --pseudo_path <your_pseudo_labels> --sam_path <your_SAM_masks> --
 ```
 
 By changing the --mode argument to 'all', you can run the entire pipeline, which includes merging, evaluation, and visualization. 
+
+
+If you are using our code, please consider citing our paper.
+
+```
+```
