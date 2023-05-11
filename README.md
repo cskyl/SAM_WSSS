@@ -1,6 +1,6 @@
 # SAM_WSSS
 
-This is a Python script for merging pseudo labels and SAM labels. It provides four modes: 'eval', 'merge', 'all', and 'vis'.
+This is a Python script for our proposed framework.
 
 ## Getting Started
 
