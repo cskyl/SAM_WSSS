@@ -1,5 +1,6 @@
 # SAM_WSSS
-
+Code repository for our paper "[Segment Anything Model (SAM) Enhanced Pseudo
+Labels for Weakly Supervised Semantic Segmentation]"
 This is a Python script for our proposed framework.
 
 ## Getting Started
