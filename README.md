@@ -71,4 +71,12 @@ By changing the --mode argument to 'all', you can run the entire pipeline, which
 If you are using our code, please consider citing our paper.
 
 ```
+@misc{chen2023segment,
+      title={Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation}, 
+      author={Tianle Chen and Zheda Mai and Ruiwen Li and Wei-lun Chao},
+      year={2023},
+      eprint={2305.05803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
